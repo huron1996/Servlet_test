@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Servlet_test3:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Servlet_test3_war</output-path>
+    <root id="archive" name="Servlet_test3_war.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
